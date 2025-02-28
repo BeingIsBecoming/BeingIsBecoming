@@ -1,5 +1,5 @@
 
-<center><img width="322" alt="banner" src="https://github.com/user-attachments/assets/1e27b1a8-7523-4e22-b250-250406c0ccd6" /></center>
+<center><img width="644" alt="banner" src="https://github.com/user-attachments/assets/1e27b1a8-7523-4e22-b250-250406c0ccd6" /></center>
 
 <p align="center">
   <a href="https://skillicons.dev">
