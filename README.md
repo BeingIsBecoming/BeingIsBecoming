@@ -1,5 +1,5 @@
 
-<img width="776" alt="Digital Typewriter" src="https://github.com/BeingIsBecoming/auteur/raw/main/3D.png" />
+<img width="776" alt="Digital Typewriter" src="https://github.com/BeingIsBecoming/auteur/raw/main/Bravo.png" />
 
 <p align="center">
   <a href="https://skillicons.dev">
