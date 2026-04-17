@@ -1,5 +1,5 @@
 
-<img width="776" alt="Digital Typewriter" src="https://github.com/BeingIsBecoming/auteur/raw/main/Bravo.png" />
+<img width="776" alt="Digital Typewriter" src="https://github.com/BeingIsBecoming/auteur/blob/main/proto-granite-hero.png?raw=true" />
 
 <!--
 <p align="center">
