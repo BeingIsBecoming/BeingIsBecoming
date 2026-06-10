@@ -1,6 +1,6 @@
 # AUTEUR
 ## Check out the world's first zero-latency e-ink typewriter! ### 
-###[AUTEUR](https://www.crowdsupply.com/auteur/auteur)
+### [AUTEUR](https://www.crowdsupply.com/auteur/auteur)
 
 <img width="776" alt="Digital Typewriter" src="https://github.com/BeingIsBecoming/auteur/blob/main/proto-granite-hero.png?raw=true" />
 
@@ -15,4 +15,4 @@
 -->
 # Screenwriting on AUTEUR
 ## Real-time Fountain rendering for industry standard scripts! ###
-###[Fountain](https://fountain.io/faq/)
+### [Fountain](https://fountain.io/faq/)
