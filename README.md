@@ -13,3 +13,6 @@
   </a>
 </p>
 -->
+# Screenwriting on AUTEUR
+### Real-time Fountain rendering for industry standard scripts! ###
+[Fountain](https://fountain.io/faq/)
